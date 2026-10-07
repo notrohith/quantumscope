@@ -1,0 +1,8 @@
+# Versions verified with Python 3.12.13 on macOS arm64.
+fastapi==0.142.0
+uvicorn==0.54.0
+qiskit==2.5.2
+qiskit-aer==0.17.2
+numpy==2.5.3
+scipy==1.18.1
+pydantic==2.13.5

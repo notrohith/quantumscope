@@ -1,0 +1,8 @@
+{
+  "reflectivity": 0.1,
+  "backgroundNoise": 0.25,
+  "channelNoise": 0.1,
+  "shots": 2048,
+  "trials": 500,
+  "seed": 42
+}

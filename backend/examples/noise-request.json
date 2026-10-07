@@ -1,0 +1,7 @@
+{
+  "state": "phi_plus",
+  "model": "readout_error",
+  "strength": 0.2,
+  "shots": 2048,
+  "seed": 42
+}

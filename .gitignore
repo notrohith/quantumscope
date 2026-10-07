@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env.local
+*.tsbuildinfo
+backend/.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+backend/.env
+
+# Local files and packaged downloads
+.DS_Store
+dist/
+*.zip

@@ -1,0 +1,51 @@
+{
+  "targetPresent": true,
+  "reflectivity": 0.1,
+  "backgroundNoise": 0.25,
+  "channelNoise": 0.1,
+  "shots": 2048,
+  "trials": 200,
+  "seed": 42,
+  "receiverScore": 0.375,
+  "threshold": 0.311800935515,
+  "decision": "target",
+  "detectionProbability": 1.0,
+  "falseAlarmProbability": 0.0,
+  "missProbability": 0.0,
+  "errorProbability": 0.0,
+  "meanH0Score": 0.2500732421875,
+  "meanH1Score": 0.37426513671875,
+  "exactH0Score": 0.25,
+  "exactH1Score": 0.373601871031,
+  "detectionCount": 200,
+  "falseAlarmCount": 0,
+  "counts": {
+    "00": 768,
+    "01": 504,
+    "10": 325,
+    "11": 451
+  },
+  "measurements": [
+    {
+      "outcome": "00",
+      "probability": 0.375
+    },
+    {
+      "outcome": "01",
+      "probability": 0.24609375
+    },
+    {
+      "outcome": "10",
+      "probability": 0.15869140625
+    },
+    {
+      "outcome": "11",
+      "probability": 0.22021484375
+    }
+  ],
+  "engine": "qiskit-aer",
+  "model": "qubit-illumination",
+  "bitOrder": "q0q1",
+  "thresholdMethod": "exact-model-midpoint",
+  "trialSampling": "exact-probability-binomial"
+}

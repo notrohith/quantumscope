@@ -1,0 +1,319 @@
+{
+  "timestamp": "2026-09-29T19:46:50.862279+00:00",
+  "machine": "macOS-26.5.2-arm64-arm-64bit",
+  "python": "3.12.13",
+  "base_url": "http://127.0.0.1:8000",
+  "cases": [
+    {
+      "endpoint": "entanglement",
+      "case": "phi_plus",
+      "request": {
+        "state": "phi_plus",
+        "shots": 2048,
+        "seed": 42
+      },
+      "seconds": 0.091135,
+      "result": {
+        "concurrence": 1.0,
+        "fidelity": 1.0
+      }
+    },
+    {
+      "endpoint": "entanglement",
+      "case": "phi_minus",
+      "request": {
+        "state": "phi_minus",
+        "shots": 2048,
+        "seed": 42
+      },
+      "seconds": 0.020566,
+      "result": {
+        "concurrence": 1.0,
+        "fidelity": 1.0
+      }
+    },
+    {
+      "endpoint": "entanglement",
+      "case": "psi_plus",
+      "request": {
+        "state": "psi_plus",
+        "shots": 2048,
+        "seed": 42
+      },
+      "seconds": 0.020165,
+      "result": {
+        "concurrence": 1.0,
+        "fidelity": 1.0
+      }
+    },
+    {
+      "endpoint": "entanglement",
+      "case": "psi_minus",
+      "request": {
+        "state": "psi_minus",
+        "shots": 2048,
+        "seed": 42
+      },
+      "seconds": 0.0204,
+      "result": {
+        "concurrence": 1.0,
+        "fidelity": 1.0
+      }
+    },
+    {
+      "endpoint": "noise",
+      "case": "depolarizing",
+      "request": {
+        "state": "phi_plus",
+        "model": "depolarizing",
+        "strength": 0.2,
+        "shots": 2048,
+        "seed": 42
+      },
+      "seconds": 0.018226,
+      "result": {
+        "finalConcurrence": 0.46,
+        "fidelity": 0.73
+      }
+    },
+    {
+      "endpoint": "noise",
+      "case": "amplitude_damping",
+      "request": {
+        "state": "phi_plus",
+        "model": "amplitude_damping",
+        "strength": 0.2,
+        "shots": 2048,
+        "seed": 42
+      },
+      "seconds": 0.016719,
+      "result": {
+        "finalConcurrence": 0.64,
+        "fidelity": 0.82
+      }
+    },
+    {
+      "endpoint": "noise",
+      "case": "phase_damping",
+      "request": {
+        "state": "phi_plus",
+        "model": "phase_damping",
+        "strength": 0.2,
+        "shots": 2048,
+        "seed": 42
+      },
+      "seconds": 0.015397,
+      "result": {
+        "finalConcurrence": 0.8,
+        "fidelity": 0.9
+      }
+    },
+    {
+      "endpoint": "noise",
+      "case": "readout_error",
+      "request": {
+        "state": "phi_plus",
+        "model": "readout_error",
+        "strength": 0.2,
+        "shots": 2048,
+        "seed": 42
+      },
+      "seconds": 0.008407,
+      "result": {
+        "finalConcurrence": 1.0,
+        "fidelity": 1.0
+      }
+    },
+    {
+      "endpoint": "illumination",
+      "case": "present",
+      "request": {
+        "reflectivity": 0.1,
+        "backgroundNoise": 0.25,
+        "channelNoise": 0.1,
+        "shots": 2048,
+        "seed": 42,
+        "targetPresent": true,
+        "trials": 200
+      },
+      "seconds": 0.011911,
+      "result": {
+        "receiverScore": 0.375,
+        "decision": "target",
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "errorProbability": 0.0
+      }
+    },
+    {
+      "endpoint": "illumination",
+      "case": "absent",
+      "request": {
+        "reflectivity": 0.1,
+        "backgroundNoise": 0.25,
+        "channelNoise": 0.1,
+        "shots": 2048,
+        "seed": 42,
+        "targetPresent": false,
+        "trials": 200
+      },
+      "seconds": 0.011335,
+      "result": {
+        "receiverScore": 0.248046875,
+        "decision": "no_target",
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "errorProbability": 0.0
+      }
+    },
+    {
+      "endpoint": "illumination",
+      "case": "low-noise",
+      "request": {
+        "reflectivity": 0.1,
+        "backgroundNoise": 0,
+        "channelNoise": 0,
+        "shots": 2048,
+        "seed": 42,
+        "targetPresent": true,
+        "trials": 200
+      },
+      "seconds": 0.01113,
+      "result": {
+        "receiverScore": 0.43505859375,
+        "decision": "target",
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "errorProbability": 0.0
+      }
+    },
+    {
+      "endpoint": "illumination",
+      "case": "high-noise",
+      "request": {
+        "reflectivity": 0.1,
+        "backgroundNoise": 0.95,
+        "channelNoise": 0.4,
+        "shots": 2048,
+        "seed": 42,
+        "targetPresent": true,
+        "trials": 200
+      },
+      "seconds": 0.011632,
+      "result": {
+        "receiverScore": 0.25537109375,
+        "decision": "target",
+        "detectionProbability": 0.62,
+        "falseAlarmProbability": 0.37,
+        "errorProbability": 0.375
+      }
+    },
+    {
+      "endpoint": "compare",
+      "case": "same-conditions",
+      "request": {
+        "reflectivity": 0.1,
+        "backgroundNoise": 0.25,
+        "channelNoise": 0.1,
+        "shots": 2048,
+        "seed": 42,
+        "trials": 500
+      },
+      "seconds": 0.032447,
+      "result": {
+        "quantum": {
+          "detectionProbability": 1.0,
+          "falseAlarmProbability": 0.0,
+          "errorProbability": 0.0,
+          "auc": 1.0
+        },
+        "control": {
+          "detectionProbability": 1.0,
+          "falseAlarmProbability": 0.0,
+          "errorProbability": 0.0,
+          "auc": 1.0
+        }
+      }
+    },
+    {
+      "endpoint": "compare",
+      "case": "weak-high-noise",
+      "request": {
+        "reflectivity": 0.01,
+        "backgroundNoise": 0.95,
+        "channelNoise": 0.4,
+        "shots": 2048,
+        "seed": 42,
+        "trials": 500
+      },
+      "seconds": 0.031679,
+      "result": {
+        "quantum": {
+          "detectionProbability": 0.51,
+          "falseAlarmProbability": 0.498,
+          "errorProbability": 0.494,
+          "auc": 0.51305
+        },
+        "control": {
+          "detectionProbability": 0.548,
+          "falseAlarmProbability": 0.488,
+          "errorProbability": 0.47,
+          "auc": 0.534768
+        }
+      }
+    },
+    {
+      "endpoint": "compare",
+      "case": "stronger-low-noise",
+      "request": {
+        "reflectivity": 0.3,
+        "backgroundNoise": 0.1,
+        "channelNoise": 0.05,
+        "shots": 2048,
+        "seed": 42,
+        "trials": 500
+      },
+      "seconds": 0.03227,
+      "result": {
+        "quantum": {
+          "detectionProbability": 1.0,
+          "falseAlarmProbability": 0.0,
+          "errorProbability": 0.0,
+          "auc": 1.0
+        },
+        "control": {
+          "detectionProbability": 1.0,
+          "falseAlarmProbability": 0.0,
+          "errorProbability": 0.0,
+          "auc": 1.0
+        }
+      }
+    }
+  ],
+  "timings": {
+    "entanglement": {
+      "samples": 4,
+      "min": 0.020165,
+      "median": 0.020483,
+      "max": 0.091135
+    },
+    "noise": {
+      "samples": 4,
+      "min": 0.008407,
+      "median": 0.016058,
+      "max": 0.018226
+    },
+    "illumination": {
+      "samples": 4,
+      "min": 0.01113,
+      "median": 0.011484,
+      "max": 0.011911
+    },
+    "compare": {
+      "samples": 3,
+      "min": 0.031679,
+      "median": 0.03227,
+      "max": 0.032447
+    }
+  }
+}

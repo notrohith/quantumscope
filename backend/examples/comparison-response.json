@@ -1,0 +1,1892 @@
+{
+  "reflectivity": 0.1,
+  "backgroundNoise": 0.25,
+  "channelNoise": 0.1,
+  "shots": 2048,
+  "seed": 42,
+  "trials": 500,
+  "quantum": {
+    "detectionProbability": 1.0,
+    "falseAlarmProbability": 0.0,
+    "missProbability": 0.0,
+    "errorProbability": 0.0,
+    "detectionCount": 500,
+    "falseAlarmCount": 0,
+    "threshold": 0.311800935515,
+    "meanH0Score": 0.2506884765625,
+    "meanH1Score": 0.3734189453125,
+    "exactH0Score": 0.25,
+    "exactH1Score": 0.373601871031,
+    "shots": 2048,
+    "trials": 500,
+    "roc": [
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.0
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.0020000000000000018
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.0040000000000000036
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.006000000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.010000000000000009
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.01200000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.014000000000000012
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.020000000000000018
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.02400000000000002
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.026000000000000023
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.03200000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.03600000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.040000000000000036
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.04200000000000004
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.04400000000000004
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.04600000000000004
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.050000000000000044
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.05600000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.06399999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.06599999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.07199999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.07599999999999996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.07999999999999996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.08599999999999997
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.09399999999999997
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.09599999999999997
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.10399999999999998
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.11199999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.128
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.134
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.136
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.138
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.15000000000000002
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.15800000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.16400000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.18000000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.19199999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.21199999999999997
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.22799999999999998
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.242
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.26
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.28600000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.29400000000000004
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.31000000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.32199999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.34199999999999997
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.364
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.384
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.396
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.41200000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.42000000000000004
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.43999999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.45999999999999996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.472
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.502
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.518
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.532
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.55
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.5680000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.5900000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.602
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.618
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.64
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.6599999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.6779999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.69
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.704
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.724
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.736
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.748
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.758
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.776
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.79
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.802
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.8160000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.8240000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.832
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.846
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.862
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.872
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.878
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.888
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.894
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.91
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.922
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.9299999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.9339999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.944
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.95
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.956
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.958
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.96
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.968
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.97
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.974
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.976
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.982
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.988
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.992
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.994
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.998
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.0020000000000000018,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.0040000000000000036,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.006000000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.008000000000000007,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.01200000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.014000000000000012,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.016000000000000014,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.018000000000000016,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.02200000000000002,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.026000000000000023,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.03400000000000003,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.03600000000000003,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.04200000000000004,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.052000000000000046,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.062000000000000055,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.06999999999999995,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.07799999999999996,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.09199999999999997,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.10999999999999999,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.12,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.13,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.14400000000000002,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.15600000000000003,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.16800000000000004,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.17600000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.18799999999999994,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.19799999999999995,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.21999999999999997,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.238,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.262,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.28400000000000003,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.30400000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.32999999999999996,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.362,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.392,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.40800000000000003,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.42000000000000004,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.42800000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.45999999999999996,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.472,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.478,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.498,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.516,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.544,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.558,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.5720000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.5800000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.61,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.646,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.6579999999999999,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.6719999999999999,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.69,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.706,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.728,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.75,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.766,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.784,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.804,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.8180000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.834,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.85,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.862,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.872,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.89,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.896,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.912,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.916,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.928,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.942,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.946,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.95,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.958,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.964,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.966,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.97,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.972,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.974,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.982,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.984,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.986,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.992,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.994,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.996,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.998,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 1.0,
+        "detectionProbability": 1.0
+      }
+    ],
+    "auc": 1.0
+  },
+  "control": {
+    "detectionProbability": 1.0,
+    "falseAlarmProbability": 0.0,
+    "missProbability": 0.0,
+    "errorProbability": 0.0,
+    "detectionCount": 500,
+    "falseAlarmCount": 0,
+    "threshold": 0.553363435515,
+    "meanH0Score": 0.5003544921875,
+    "meanH1Score": 0.606861328125,
+    "exactH0Score": 0.5,
+    "exactH1Score": 0.606726871031,
+    "shots": 2048,
+    "trials": 500,
+    "roc": [
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.0
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.0020000000000000018
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.0040000000000000036
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.006000000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.008000000000000007
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.01200000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.016000000000000014
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.020000000000000018
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.02200000000000002
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.026000000000000023
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.028000000000000025
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.030000000000000027
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.03400000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.04200000000000004
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.04800000000000004
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.05400000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.05800000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.062000000000000055
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.06599999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.06999999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.07599999999999996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.07799999999999996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.08599999999999997
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.09599999999999997
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.11399999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.118
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.128
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.14
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.14800000000000002
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.16000000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.17200000000000004
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.18600000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.19599999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.19999999999999996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.21399999999999997
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.23399999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.248
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.256
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.27
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.28200000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.30200000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.31000000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.32199999999999995
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.344
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.366
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.38
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.396
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.41000000000000003
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.43200000000000005
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.45999999999999996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.482
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.502
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.522
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.548
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.5660000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.5800000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.598
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.612
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.626
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.642
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.6599999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.6799999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.696
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.706
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.724
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.736
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.746
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.752
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.766
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.776
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.79
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.806
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.8180000000000001
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.83
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.838
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.848
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.866
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.87
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.876
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.886
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.892
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.9
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.902
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.904
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.91
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.92
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.9319999999999999
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.938
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.946
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.95
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.952
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.956
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.962
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.964
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.966
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.968
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.974
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.98
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.984
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.99
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.992
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.994
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.996
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 0.998
+      },
+      {
+        "falseAlarmProbability": 0.0,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.0020000000000000018,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.0040000000000000036,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.008000000000000007,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.010000000000000009,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.01200000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.014000000000000012,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.020000000000000018,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.02200000000000002,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.02400000000000002,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.028000000000000025,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.030000000000000027,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.03200000000000003,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.03400000000000003,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.038000000000000034,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.040000000000000036,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.052000000000000046,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.05400000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.05800000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.06000000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.06599999999999995,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.07799999999999996,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.08599999999999997,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.09999999999999998,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.11399999999999999,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.118,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.134,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.14,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.15000000000000002,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.17000000000000004,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.18400000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.19199999999999995,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.20199999999999996,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.21599999999999997,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.23399999999999999,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.254,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.268,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.28,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.29000000000000004,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.30800000000000005,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.32399999999999995,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.352,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.36,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.378,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.394,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.406,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.42000000000000004,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.44599999999999995,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.474,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.488,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.528,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.55,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.5660000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.5920000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.602,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.612,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.622,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.634,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.65,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.6639999999999999,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.6779999999999999,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.7,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.716,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.73,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.75,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.772,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.798,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.81,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.8160000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.8260000000000001,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.838,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.856,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.862,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.868,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.87,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.876,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.884,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.894,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.9,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.91,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.914,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.924,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.9319999999999999,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.938,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.942,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.944,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.948,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.954,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.958,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.96,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.962,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.968,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.97,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.976,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.98,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.984,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.986,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.988,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.99,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.994,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.996,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 0.998,
+        "detectionProbability": 1.0
+      },
+      {
+        "falseAlarmProbability": 1.0,
+        "detectionProbability": 1.0
+      }
+    ],
+    "auc": 1.0
+  },
+  "sweep": [
+    {
+      "backgroundNoise": 0.0,
+      "quantum": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.332401247354,
+        "meanH0Score": 0.249798828125,
+        "meanH1Score": 0.4147275390625,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.414802494708
+      },
+      "control": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.571151247354,
+        "meanH0Score": 0.499849609375,
+        "meanH1Score": 0.6423564453125,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.642302494708
+      }
+    },
+    {
+      "backgroundNoise": 0.1,
+      "quantum": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.324161122618,
+        "meanH0Score": 0.2501787109375,
+        "meanH1Score": 0.398890625,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.398322245237
+      },
+      "control": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.564036122618,
+        "meanH0Score": 0.49997265625,
+        "meanH1Score": 0.6285634765625,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.628072245237
+      }
+    },
+    {
+      "backgroundNoise": 0.2,
+      "quantum": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.315920997883,
+        "meanH0Score": 0.2504619140625,
+        "meanH1Score": 0.3822353515625,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.381841995766
+      },
+      "control": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.556920997883,
+        "meanH0Score": 0.50008984375,
+        "meanH1Score": 0.613974609375,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.613841995766
+      }
+    },
+    {
+      "backgroundNoise": 0.3,
+      "quantum": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.307680873148,
+        "meanH0Score": 0.2493740234375,
+        "meanH1Score": 0.3656669921875,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.365361746295
+      },
+      "control": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.549805873148,
+        "meanH0Score": 0.4994794921875,
+        "meanH1Score": 0.5995546875,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.599611746295
+      }
+    },
+    {
+      "backgroundNoise": 0.4,
+      "quantum": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.299440748412,
+        "meanH0Score": 0.2493857421875,
+        "meanH1Score": 0.34840625,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.348881496825
+      },
+      "control": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.542690748412,
+        "meanH0Score": 0.4998779296875,
+        "meanH1Score": 0.5862646484375,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.585381496825
+      }
+    },
+    {
+      "backgroundNoise": 0.5,
+      "quantum": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.291200623677,
+        "meanH0Score": 0.25003125,
+        "meanH1Score": 0.3323828125,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.332401247354
+      },
+      "control": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.535575623677,
+        "meanH0Score": 0.4994716796875,
+        "meanH1Score": 0.570720703125,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.571151247354
+      }
+    },
+    {
+      "backgroundNoise": 0.6,
+      "quantum": {
+        "detectionProbability": 1.0,
+        "falseAlarmProbability": 0.0,
+        "missProbability": 0.0,
+        "errorProbability": 0.0,
+        "detectionCount": 500,
+        "falseAlarmCount": 0,
+        "threshold": 0.282960498942,
+        "meanH0Score": 0.2507919921875,
+        "meanH1Score": 0.316044921875,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.315920997883
+      },
+      "control": {
+        "detectionProbability": 0.996,
+        "falseAlarmProbability": 0.004,
+        "missProbability": 0.0040000000000000036,
+        "errorProbability": 0.004000000000000002,
+        "detectionCount": 498,
+        "falseAlarmCount": 2,
+        "threshold": 0.528460498942,
+        "meanH0Score": 0.499416015625,
+        "meanH1Score": 0.5567109375,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.556920997883
+      }
+    },
+    {
+      "backgroundNoise": 0.7,
+      "quantum": {
+        "detectionProbability": 0.992,
+        "falseAlarmProbability": 0.004,
+        "missProbability": 0.008000000000000007,
+        "errorProbability": 0.006000000000000004,
+        "detectionCount": 496,
+        "falseAlarmCount": 2,
+        "threshold": 0.274720374206,
+        "meanH0Score": 0.2494912109375,
+        "meanH1Score": 0.2989013671875,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.299440748412
+      },
+      "control": {
+        "detectionProbability": 0.98,
+        "falseAlarmProbability": 0.028,
+        "missProbability": 0.020000000000000018,
+        "errorProbability": 0.024000000000000007,
+        "detectionCount": 490,
+        "falseAlarmCount": 14,
+        "threshold": 0.521345374206,
+        "meanH0Score": 0.5002734375,
+        "meanH1Score": 0.5419013671875,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.542690748412
+      }
+    },
+    {
+      "backgroundNoise": 0.8,
+      "quantum": {
+        "detectionProbability": 0.95,
+        "falseAlarmProbability": 0.046,
+        "missProbability": 0.050000000000000044,
+        "errorProbability": 0.04800000000000002,
+        "detectionCount": 475,
+        "falseAlarmCount": 23,
+        "threshold": 0.266480249471,
+        "meanH0Score": 0.2500947265625,
+        "meanH1Score": 0.2832734375,
+        "exactH0Score": 0.25,
+        "exactH1Score": 0.282960498942
+      },
+      "control": {
+        "detectionProbability": 0.914,
+        "falseAlarmProbability": 0.092,
+        "missProbability": 0.08599999999999997,
+        "errorProbability": 0.08899999999999998,
+        "detectionCount": 457,
+        "falseAlarmCount": 46,
+        "threshold": 0.514230249471,
+        "meanH0Score": 0.500142578125,
+        "meanH1Score": 0.5283203125,
+        "exactH0Score": 0.5,
+        "exactH1Score": 0.528460498942
+      }
+    }
+  ],
+  "engine": "qiskit-aer",
+  "model": "qubit-comparison",
+  "priors": "equal",
+  "thresholdMethod": "exact-model-midpoint",
+  "trialSampling": "exact-probability-binomial"
+}

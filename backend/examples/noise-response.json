@@ -1,0 +1,129 @@
+{
+  "state": "phi_plus",
+  "shots": 2048,
+  "seed": 42,
+  "model": "readout_error",
+  "strength": 0.2,
+  "counts": {
+    "00": 713,
+    "01": 314,
+    "10": 324,
+    "11": 697
+  },
+  "measurements": [
+    {
+      "outcome": "00",
+      "probability": 0.34814453125
+    },
+    {
+      "outcome": "01",
+      "probability": 0.1533203125
+    },
+    {
+      "outcome": "10",
+      "probability": 0.158203125
+    },
+    {
+      "outcome": "11",
+      "probability": 0.34033203125
+    }
+  ],
+  "initialConcurrence": 1.0,
+  "finalConcurrence": 1.0,
+  "fidelity": 1.0,
+  "reducedEntropy": 1.0,
+  "quantumZZCorrelation": 1.0,
+  "measuredZZCorrelation": 0.376953125,
+  "trend": [
+    {
+      "noise": 0.0,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 1.0
+    },
+    {
+      "noise": 0.05,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.81
+    },
+    {
+      "noise": 0.1,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.64
+    },
+    {
+      "noise": 0.15,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.49
+    },
+    {
+      "noise": 0.2,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.36
+    },
+    {
+      "noise": 0.25,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.25
+    },
+    {
+      "noise": 0.3,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.16
+    },
+    {
+      "noise": 0.35,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.09
+    },
+    {
+      "noise": 0.4,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.04
+    },
+    {
+      "noise": 0.45,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.01
+    },
+    {
+      "noise": 0.5,
+      "concurrence": 1.0,
+      "fidelity": 1.0,
+      "reducedEntropy": 1.0,
+      "quantumZZCorrelation": 1.0,
+      "measuredZZCorrelation": 0.0
+    }
+  ],
+  "engine": "qiskit-aer",
+  "bitOrder": "q0q1"
+}
